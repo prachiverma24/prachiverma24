@@ -1,31 +1,27 @@
-<p align="center">
-  <img src="https://www.canva.com/design/DAHBpZ5sRwQ/jkNKtyDud2qwAofsfNmVpw/edit?utm_content=DAHBpZ5sRwQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=Prachi+Verma;Frontend+Developer;MERN+Stack+Learner;Building+Creative+Web+Experiences" />
-</p>
+<h1 align="center">Hi 👋, I'm Prachi Verma</h1>
+<h3 align="center">Frontend Developer • MERN Stack Learner • Building Real-World Systems</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prachiverma24/">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:prachiverma24@navgurukul.org">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png"/>
+    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 🧠 About Me
 
-- 🎓 Bachelor of Computer Applications (2nd Year)
-- 💻 Frontend Developer  MERN Stack Learner
-- 🌱 Currently building full-stack real-world projects
-- 🎨 Love blending design with logic
-- 🚀 Growing every single day
+```js
+const prachi = {
+  education: "BCA (2nd Year)",
+  focus: "Frontend + MERN Stack Development",
+  interests: ["System Design", "Authentication", "Full Stack Apps"],
+  currentGoal: "Building scalable production-ready applications",
+};
 
----
 
 ## 🛠 Tech Stack
 
