@@ -1,7 +1,5 @@
-## Hi there 👋
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prachiverma24/prachiverma24/main/banner.png" />
+  <img src="https://www.canva.com/design/DAHBpZ5sRwQ/jkNKtyDud2qwAofsfNmVpw/edit?utm_content=DAHBpZ5sRwQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" />
 </p>
 
 <p align="center">
@@ -22,7 +20,7 @@
 ## 👩‍💻 About Me
 
 - 🎓 Bachelor of Computer Applications (2nd Year)
-- 💻 Frontend Developer & MERN Stack Learner
+- 💻 Frontend Developer  MERN Stack Learner
 - 🌱 Currently building full-stack real-world projects
 - 🎨 Love blending design with logic
 - 🚀 Growing every single day
@@ -59,9 +57,10 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prachiverma24&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prachiverma24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="165" src="https://streak-stats.demolab.com?user=prachiverma24&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
@@ -69,6 +68,10 @@
 
 ### 🌐 Portfolio Website  
 Frontend Personal Portfolio  
+A responsive personal portfolio showcasing my skills, projects, and journey as a developer.  
+Designed with clean UI principles and smooth user experience.
+
+**Tech Stack:** HTML • CSS • JavaScript • React  
 🔗 Live: https://prachi-verma-portfolio.netlify.app/
 
 ---
@@ -76,16 +79,43 @@ Frontend Personal Portfolio
 ### 💎 QuerNix Website  
 Frontend Project (Currently Working On It)
 
+A modern and responsive website focused on structured UI design and performance optimization.  
+Currently improving layout responsiveness and interactive components.
+
+**Tech Stack:** React • CSS • JavaScript  
+🔗 Link: https://quenrix-internship-project.netlify.app/
+
 ---
 
 ### ❤️ HeartMap  
-Full Stack Donation Platform  
+Full Stack Donation Platform
+A full-stack donation platform that connects donors with causes.  
+Includes authentication, protected routes, and real-time data handling.
+
+**Features:**
+- User authentication  
+- Secure donation flow  
+- Dynamic data rendering  
+- REST API integration  
+
+**Tech Stack:** React • Node.js • Express • MongoDB  
+
 🔗 Live: https://heartmap-donation-frontend.onrender.com/
 
 ---
 
 ### 🎓 Capstone Project  
 Full Stack Dashboard System  
+A role-based dashboard system built with complete frontend and backend integration.  
+Focused on authentication, protected routes, and structured backend logic.
+
+**Features:**
+- JWT Authentication  
+- Role-based access  
+- Dashboard analytics  
+- API integration  
+
+**Tech Stack:** React • Node.js • Express • MongoDB 
 🔗 Live: https://capstone-project-frontend-f887.onrender.com/dashboard
 
 ---
