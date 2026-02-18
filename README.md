@@ -2,9 +2,6 @@
 <h3 align="center">Frontend Developer • MERN Stack Learner • Building Real-World Systems</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prachiverma24/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
   <a href="mailto:prachiverma24@navgurukul.org">
     <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" />
   </a>
@@ -14,13 +11,11 @@
 
 ## 🧠 About Me
 
-```js
-const prachi = {
-  education: "BCA (2nd Year)",
-  focus: "Frontend + MERN Stack Development",
-  interests: ["System Design", "Authentication", "Full Stack Apps"],
-  currentGoal: "Building scalable production-ready applications",
-};
+- 🎓 BCA Student (2nd Year) with a strong interest in full-stack development  
+- 💻 Focused on building scalable MERN stack applications  
+- 🔐 Interested in authentication systems & backend logic  
+- 🎨 Passionate about creating clean, responsive UI  
+- 🚀 Constantly learning and improving through real-world projects  
 
 
 ## 🛠 Tech Stack
@@ -65,7 +60,7 @@ const prachi = {
 ### 🌐 Portfolio Website  
 Frontend Personal Portfolio  
 A responsive personal portfolio showcasing my skills, projects, and journey as a developer.  
-Designed with clean UI principles and smooth user experience.
+Designed with clean UI principles and a smooth user experience.
 
 **Tech Stack:** HTML • CSS • JavaScript • React  
 🔗 Live: https://prachi-verma-portfolio.netlify.app/
