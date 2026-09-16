@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="PASTE_YOUR_BANNER_RAW_LINK_HERE" width="100%"/>
+  <img src="https://raw.githubusercontent.com/prachiverma24/prachiverma24/main/banner.svg" width="100%"/>
 </div>
 
 <br/>
