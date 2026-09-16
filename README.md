@@ -151,12 +151,12 @@ Where the rest of this lives, designed properly — clean UI, smooth UX, built t
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prachiverma24&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachiverma24&layout=compact&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=prachiverma24&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=6E9FFF&icon_color=6E9FFF&text_color=9BA3AF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachiverma24&layout=compact&hide_border=true&bg_color=0D1117&title_color=6E9FFF&text_color=9BA3AF" height="165"/>
 
-<img src="https://streak-stats.demolab.com/?user=prachiverma24&theme=radical&hide_border=true" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=prachiverma24&hide_border=true&background=0D1117&ring=6E9FFF&fire=6E9FFF&currStreakLabel=6E9FFF&sideNums=9BA3AF&sideLabels=9BA3AF&currStreakNum=E6EDF3&dates=6B7280&stroke=0D1117" width="70%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=prachiverma24&theme=radical&column=4&margin-w=8&margin-h=8" width="70%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=prachiverma24&theme=onedark&column=4&margin-w=8&margin-h=8" width="70%"/>
 
 </div>
 
