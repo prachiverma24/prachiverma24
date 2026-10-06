@@ -169,19 +169,13 @@ A responsive portfolio showcasing my skills, projects and experience.
 
 <img src="https://streak-stats.demolab.com?user=prachiverma24&theme=tokyonight&hide_border=true&background=0d1117" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=prachiverma24&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" />
-
 </div>
 
 <br/>
 
-<!-- ═══════════════ ACTIVITY GRAPH ═══════════════ -->
-## 📈 Contribution Activity
+<!-- ═══════════════ CONTRIBUTION SNAKE ═══════════════ -->
+## 🐍 Contribution Activity
 
-
-<br/>
-
-<!-- ═══════════════ SNAKE ANIMATION ═══════════════ -->
 <div align="center">
 <img src="https://raw.githubusercontent.com/prachiverma24/prachiverma24/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
 </div>
