@@ -178,9 +178,6 @@ A responsive portfolio showcasing my skills, projects and experience.
 <!-- ═══════════════ ACTIVITY GRAPH ═══════════════ -->
 ## 📈 Contribution Activity
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prachiverma24&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" width="100%" />
-</div>
 
 <br/>
 
